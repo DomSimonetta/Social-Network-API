@@ -8,7 +8,7 @@ Languages used in this project- Javascript
 N/A
 
 ##  Decsription 
-
+This project is just a simple API that could be plugged into a social networking site to keep a data base of users and their interactions with eachother including thoughts and friends.
 
 ## Link
 Link to video walkthrough- 
